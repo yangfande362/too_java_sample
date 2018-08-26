@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tooJavaSample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.too.war">
+      <element id="artifact" artifact-name="tooJavaSample:war exploded" />
+    </root>
+  </artifact>
+</component>
